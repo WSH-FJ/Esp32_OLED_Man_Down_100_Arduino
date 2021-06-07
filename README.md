@@ -1,0 +1,5 @@
+# Esp32_OLED_Man_Down_100_Arduino
+基于Arduino库对Esp32驱动OLED屏设计的小游戏——是男人就下100层
+OLED屏为4脚，采用iic协议
+在Arduino库中可直接采用SSD1306.h直接驱动OLED屏以及BluetoothSerial.h进行手机模拟按键控制
+在该游戏中还有很多东西可以完善，但主要是学习Arduino中库的使用，以及OLED的驱动和蓝牙的连接
